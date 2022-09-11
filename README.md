@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HeintzelmannDK
+- 👀 I’m interested in all things that gets my nerd on!
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on all things I find fun.
+- 📫 Denmark

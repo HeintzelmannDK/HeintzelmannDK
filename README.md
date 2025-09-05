@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @HeintzelmannDK
+- 👋 Hi, I’m Casper, last name Heintzelmann.
 - 👀 I’m interested in all things that gets my nerd on!
 - 💞️ I’m looking to collaborate on all things I find fun.
 - 📫 Denmark
+- ⚙️
+- I am a lifelong nerd with all things technical. I am from the golden generation that transitioned from analog to digital. I was a nerd before Google was invented.
+- I excel in electrical engineering, PLC programming, PID regulation, tinkering with stuff, stealing (for inspiration) code and creating useful stuff.
+- Through years of professional work, I am also an expert in product development, product management, business development, and especially linking R&D work with the commercial part of the business.
+- Besides the IT related nerdery, I am also a skilled craftsman and often invent and build machines for all sorts of things. I work in wood, steel, 3D printing, laser cutting and engraving, and much more.
+- I also play a bit of music, drive and maintain my Land Rovers, and generally try to be a nice guy.
+- I am no expert in anything, but I can do almost anything.

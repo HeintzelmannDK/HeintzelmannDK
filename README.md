@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Casper, last name Heintzelmann.
 - 👀 I’m interested in all things that gets my nerd on!
 - 💞️ I’m looking to collaborate on all things I find fun.
-- 📫 Denmark
+- 📫 Denmark - ch@annanova.dk
 - ⚙️
 - I am a lifelong nerd with all things technical. I am from the golden generation that transitioned from analog to digital. I was a nerd before Google was invented.
 - I excel in electrical engineering, PLC programming, PID regulation, tinkering with stuff, stealing (for inspiration) code and creating useful stuff.
